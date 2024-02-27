@@ -1,7 +1,7 @@
 # Project "Is A “Centre-Forward” Footballer’s Market Value Determined only by Their Statistics?" By Gajan Kanagenthiran
-- The "centre-forward-data-project-pyhton-code.ipynb" is a jupyter notebook file that contains the code for the Data Cleaning that was done such as Standardizing Data Types and Combining Multiple Datasets, while also including the code for the analysis technique and machine learning used on the data set for the  "Is A “Centre-Forward” Footballer’s Market Value Determined Only by Their Statistics?" project.
+- The "centre-forward-data-project-pyhton-code.ipynb" in the repository is a jupyter notebook file that contains the code for the Data Cleaning that was done such as Standardizing Data Types and Combining Multiple Datasets, while also including the code for the analysis technique and machine learning used on the data set for the  "Is A “Centre-Forward” Footballer’s Market Value Determined Only by Their Statistics?" project.
 
-- The "FOOTBALL REPORT.pdf" is a pdf file that has an in-depth analysis of the dataset, results, methodology and findings. 
+- The "FOOTBALL REPORT.pdf" is a pdf file in the repository that has an in-depth analysis of the dataset, results, methodology and findings. 
 
 ##### Problem Area: 
 In professional football, there is an ongoing debate about how a player's market value is determined, especially for 'Centre-Forwards.' This study analyses the influence of goals and assists on the market value of the top 50 'Centre-Forwards' using the 'Most Expensive Footballers 2021' dataset.
